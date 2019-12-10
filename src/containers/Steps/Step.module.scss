@@ -1,0 +1,19 @@
+.step_wrap {
+  margin-bottom: 5px;
+  max-width: 300px;
+  color: #737070;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  div {
+    width: 280px;
+  }
+  input {
+    height: 20px;
+    width: 100%;
+    border: none;
+    border-bottom: solid 1px #cecece;
+  }
+}
